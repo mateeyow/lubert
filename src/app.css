@@ -1,0 +1,17 @@
+.app {
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1487147264018-f937fba0c817');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: white;
+  height: 100vh;
+  width: 80%;
+  opacity: 0.7;
+  text-align: center;
+}
